@@ -1,0 +1,14 @@
+Package: LIFEWAS
+Type: Package
+Title: Investigates potential associations between a wide range of variables and an outcome
+Version: 0.1.0
+Author@R: person("Thomas", "van der Meer", email = "thomas.vandermeer@hms.harvard.edu", role = c["aut", "cre"]
+Author: Thomas van der Meer
+Maintainer: Thomas van der Meer <thomas.vandermeer@hms.harvard.edu>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Depends: dplyr, magrittr, tibble, mlr, survival, purrr, broom, tidyr, ggplot2, gplots, psych, glmnet, ROCR, forcats, tableone, data.table
+RoxygenNote: 7.1.0
